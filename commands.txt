@@ -1,3 +1,4 @@
 [CARD_ADDED] {"name":"Ameena Singh","number":"5598880311980991","expiry":"10/26","cvv":996} 2025-07-02T07:11:15.648Z
 [BIN_REGISTERED] {"pattern":"552393300145XXXX","fullNumber":"5523933001453233","expiry":null,"cvc":null,"name":"BIN 552393300145XXXX","date":"7/2/2025, 10:12:52 AM","hasFullCard":false,"hasExpiry":false,"hasCvc":false} 2025-07-02T07:12:52.688Z
 [BIN_USED] {"pattern":"552393300145XXXX","number":"5523933001453492","expiry":"10/28","cvc":957,"usedAt":"2025-07-02T07:12:54.907Z"} 2025-07-02T07:12:54.907Z
+[BIN_USED] {"pattern":"552393300145XXXX","number":"5523933001457027","expiry":"05/28","cvc":529,"usedAt":"2025-07-02T07:13:03.915Z"} 2025-07-02T07:13:03.915Z
